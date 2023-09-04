@@ -2,18 +2,19 @@
 
 - This is a simple Blog writing application where users can perform CRUD (CREATE, RETRIEVE, UPDATE and DELETE) operations on blogs.
 - Properties are
-  int blogId;
-  String blogTitle;
-  String authorName;
-  String blogContent;
+
+  -  int blogId;
+  - String blogTitle;
+  - String authorName;
+  - String blogContent;
 
 To do the exercise, complete the following steps:
 
-**Note**: Classes provided in this exercise will show compilation errors when the exercise is cloned locally.
+
 You need to go through the comments thoroughly and complete the application.
 
     1. Manage dependencies in pom.xml.
-    2. Complete the classes and methods by analyzing the test code, so that there are no compilation errors.
+    2. Complete the classes and methods by analyzing the senario.
     3. Implement the CRUD Operations on Blog :
 
           +Write a method as per the below requirements
